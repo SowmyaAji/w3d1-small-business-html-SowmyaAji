@@ -20,7 +20,8 @@ Under the navigation menu, put the following text:
 
 > At Lazy River, our staff are knowledgable about horticulture and can give you expert advice. We have very low turnover, so you can feel confident knowing that we'll remember your gardening needs and can help you manage your garden for years to come.
 
-> _Always friendly, always affordable, always green_ - that's the Lazy River Way!
+> _Always friendly, always affordable, always green_
+- that's the Lazy River Way! 
 
 ### Currently In Stock
 
